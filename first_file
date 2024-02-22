@@ -1,5 +1,13 @@
 cout<<"My Name Is"<<"HUSNAIN FAISAL";
 cout<<"My Roll Number"<<"23-st-042";
+
+cout<<"My 2nd semester subjects:";
+cout<<"SCM";
+cout<<"SDLC";
+cout<<"QURAN";
+cout<<"english";
+cout<<"OOP";
+
 cout<<"My Fsc Subjects are:";
 cout<<"physics";
 cout<<"chemistry";
@@ -14,3 +22,4 @@ cout<<"Programming Theory+LAB";
 cout<<"ICT Theory+ LAB";
 cout<<"islamiyat";
 cout<<"OHSM";
+
