@@ -7,6 +7,8 @@ cout<<"maths";
 cout<<"english";
 cout<<"urdu";
 cout<<"Islamiyat AND Pak Studies";
+
+cout<<"My 1st semester subjects";
 cout<<"applied physics";
 cout<<"Programming Theory+LAB";
 cout<<"ICT Theory+ LAB";
