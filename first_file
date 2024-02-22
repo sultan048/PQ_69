@@ -7,3 +7,8 @@ cout<<"maths";
 cout<<"english";
 cout<<"urdu";
 cout<<"Islamiyat AND Pak Studies";
+cout<<"applied physics";
+cout<<"Programming Theory+LAB";
+cout<<"ICT Theory+ LAB";
+cout<<"islamiyat";
+cout<<"OHSM";
