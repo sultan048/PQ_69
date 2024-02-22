@@ -1,2 +1,8 @@
 cout<<"My Name Is"<<"HUSNAIN FAISAL";
 cout<<"My Roll Number"<<"23-st-042";
+cout<<"My 2nd semester subjects:";
+cout<<"SCM";
+cout<<"SDLC";
+cout<<"QURAN";
+cout<<"english";
+cout<<"OOP";
